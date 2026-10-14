@@ -1,0 +1,69 @@
+domain,returned_json,unique_products_collected,page_sizes,meta_published_products_count,shop_currency,limit_500_returned,capped_at_25000,short_nonfinal_page,notes
+www.allbirds.com,yes,692,"250,250,192,0",692,USD,250,no,no,
+www.glossier.com,yes,111,"111,0",111,USD,111,no,no,
+kith.com,yes,25000,"250 x 100 pages; page 101 -> HTTP 400",25001,USD,250,yes,no,"page 101 error: Page * Limit exceeds the 25000 limit."
+www.tentree.com,yes,1816,"250x7,66,0",1816,USD,250,no,no,
+colourpop.com,yes,1049,"250,250,250,250,49,0",1048,USD,250,no,no,
+kyliecosmetics.com,yes,247,"247,0",247,USD,247,no,no,
+rothys.com,yes,717,"250,250,217,0",717,USD,250,no,no,
+www.brooklinen.com,yes,495,"250,245,0",495,USD,250,no,no,
+fentybeauty.com,yes,1035,"250,250,250,250,35,0",1012,USD,250,no,no,
+www.puravidabracelets.com,yes,656,"250,250,156,0",656,USD,250,no,no,
+www.deathwishcoffee.com,yes,147,"147,0",147,USD,147,no,no,
+outdoorvoices.com,yes,369,"250,119,0",369,USD,250,no,no,
+www.taylorstitch.com,yes,3834,"250x15,84,0",3834,USD,250,no,no,
+olaplex.com,yes,142,"142,0",142,USD,142,no,no,
+liquiddeath.com,yes,217,"217,0",217,USD,217,no,no,
+ridge.com,yes,855,"58,190,163,208,229,7,0",855,USD,58,no,yes,"first page returned 58 of 250"
+www.nativecos.com,yes,94,"94,0",94,USD,94,no,no,
+iliabeauty.com,yes,78,"78,0",78,USD,78,no,no,
+www.summerfridays.com,yes,172,"172,0",173,USD,172,no,no,
+www.rhodeskin.com,yes,114,"114,0",114,USD,114,no,no,
+www.stanley1913.com,yes,348,"250,98,0",348,USD,250,no,no,
+www.beardbrand.com,yes,66,"66,0",66,USD,66,no,no,
+us.princesspolly.com,yes,17751,"250x71,1,0",17750,USD,250,no,no,
+www.hiutdenim.co.uk,yes,120,"120,0",120,GBP,120,no,no,
+www.ghostlifestyle.com,yes,492,"250,242,0",492,USD,250,no,no,
+www.feastables.com,yes,31,"31,0",31,USD,31,no,no,
+www.knix.com,yes,654,"250,250,154,0",654,USD,250,no,no,
+www.thirdlove.com,yes,363,"250,113,0",363,USD,250,no,no,
+fashionnova.com,yes,25000,"250 x 100 pages",25001,USD,250,yes,no,
+chubbiesshorts.com,yes,1828,"250x7,78,0",1828,USD,250,no,no,
+www.skims.com,yes,3982,"250x15,232,0",3981,USD,250,no,no,
+drsquatch.com,yes,496,"221,213,62,0",496,USD,221,no,yes,
+www.mejuri.com,yes,704,"250,248,206,0",704,CAD,250,no,yes,
+brumate.com,yes,1260,"250x5,10,0",1260,USD,250,no,no,
+cupshe.com,yes,1407,"250x5,157,0",1407,USD,250,no,no,
+goodr.com,yes,408,"250,158,0",408,USD,250,no,no,
+ugmonk.com,yes,191,"191,0",191,USD,191,no,no,
+www.cotopaxi.com,yes,1421,"250x5,171,0",1421,USD,250,no,no,
+www.marinelayer.com,yes,2657,"250x10,157,0",2656,USD,250,no,no,
+www.everlane.com,yes,9136,"250x36,136,0",9133,USD,250,no,no,
+www.lunya.co,yes,278,"250,28,0",278,USD,250,no,no,
+www.graza.co,yes,80,"80,0",80,USD,80,no,no,
+flybyjing.com,yes,32,"32,0",32,USD,32,no,no,
+brightland.co,yes,44,"44,0",44,USD,44,no,no,
+greatjonesgoods.com,yes,56,"56,0",56,USD,56,no,no,
+fromourplace.com,yes,122,"122,0",122,USD,122,no,no,
+www.ministryofsupply.com,yes,98,"98,0",98,USD,98,no,no,
+www.unitedbyblue.com,yes,105,"105,0",105,USD,105,no,no,
+www.rains.com,yes,308,"230,78,0",308,EUR,230,no,yes,
+www.nisolo.com,yes,169,"169,0",169,USD,169,no,no,
+www.gymshark.com,no,,,,,,,,HTTP 403
+www.manscaped.com,no,,,,,,,,HTTP 404
+www.solostove.com,no,,,,,,,,HTTP 404
+www.bombas.com,no,,,,,,,,request failed (CORS/network/blocked)
+www.ruggable.com,no,,,,,,,,request failed
+vuoriclothing.com,no,,,,,,,,request failed
+huckberry.com,no,,,,,,,,request failed
+www.bluebottlecoffee.com,no,,,,,,,,request failed
+mizzenandmain.com,no,,,,,,,,request failed
+www.parade.com,no,,,,,,,,request failed
+www.bollandbranch.com,no,,,,,,,,request failed
+www.tecovas.com,no,,,,,,,,request failed
+www.figs.com,no,,,,,,,,request failed
+www.heydude.com,no,,,,,,,,request failed
+www.omsom.com,no,,,,,,,,request failed
+www.carawayhome.com,no,,,,,,,,request failed
+www.jenikayne.com,no,,,,,,,,request failed
+www.kotn.com,no,,,,,,,,request failed
